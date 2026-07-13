@@ -117,19 +117,6 @@ Contributions are welcome! To contribute:
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👤 Author
-
-**Matela-cyber**
-- GitHub: [@Matela-cyber](https://github.com/Matela-cyber)
-
-## 🙏 Acknowledgments
-
-- JavaFX community for excellent documentation and examples
-- Physics simulation inspiration from classic marble games
-- Contributors and testers who helped refine the gameplay
-
----
-
 <div align="center">
 
 Made with ❤️ by Matela-cyber
